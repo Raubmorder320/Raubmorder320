@@ -6,7 +6,7 @@
 
 <br/>
 
-I am a 2nd-year student at **Saint Petersburg State University**.  
+I am a 3nd-year student at **Saint Petersburg State University**.  
 Currently focused on **Python** development and diving deep into **Linux** administration.  
 
 <br/>
